@@ -1,11 +1,7 @@
 ---
 title: "시작하는 마음"
 date: 2018-07-28 18:18:00 -0400
-<<<<<<< HEAD
 categories: MINDSET
-=======
-categories: THE MINDSET
->>>>>>> Create 2018-07-28-the-first-mindset.md
 ---
 
 1. 
