@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jiwon Yeom"
   avatar           : "assets/images/KakaoTalk_Photo_2018-07-28-18-56-28.jpeg"
-  bio              : "javascript와 블록체인을 좋아하는 개발자 꿈나무"
+  bio              : "Interested in Containers, DevOps and effective Cloud architecture"
   location         : "Seoul"
   email            : "yjw113080@gmail.com"
   uri              :
@@ -114,11 +114,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :  "yjw113080"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "jiwony__"
+  instagram        : 
   lastfm           :
   linkedin         : "jiwonyruntheworld"
   pinterest        :
